@@ -63,8 +63,6 @@ Operasi `pop_front()`
 
 ## 3. Keunggulan dan Kompleksitas Operasi
 
-
-| Operasi      | Kompleksitas     | Keterangan      |
 | Operasi         | Kompleksitas | Keterangan                                |
 |-----------------|--------------|--------------------------------------------|
 | Akses Elemen    | O(1)         | Sama seperti array (`[]` atau `at()` )     |
